@@ -1,0 +1,110 @@
+{
+ "subsonic-response": {
+  "status": "ok",
+  "version": "1.16.1",
+  "type": "navidrome",
+  "serverVersion": "0.63.2 (be10f89c)",
+  "openSubsonic": true,
+  "artist": {
+   "id": "24jpYAI4N8TG0cCAYyzZk5",
+   "name": "pornophonique",
+   "coverArt": "ar-24jpYAI4N8TG0cCAYyzZk5_0",
+   "albumCount": 2,
+   "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTI0anBZQUk0TjhURzBjQ0FZeXpaazVfMCIsImlzcyI6Ik5EIn0.W7QM345ULpko8efY-6hmdvuMM-bPGovpdOATaETYYyM?size=600",
+   "musicBrainzId": "",
+   "sortName": "pornophonique",
+   "roles": [
+    "albumartist",
+    "artist",
+    "composer",
+    "maincredit"
+   ],
+   "album": [
+    {
+     "id": "2cahnhu6UPen2wbYDm4CHK",
+     "name": "8-bit lagerfeuer",
+     "artist": "pornophonique",
+     "artistId": "24jpYAI4N8TG0cCAYyzZk5",
+     "coverArt": "al-2cahnhu6UPen2wbYDm4CHK_640a93a8",
+     "songCount": 8,
+     "duration": 1954,
+     "playCount": 5977,
+     "created": "2025-03-26T22:26:48.822020234Z",
+     "starred": "2026-09-11T21:26:57.083118238Z",
+     "year": 2007,
+     "played": "2026-09-12T18:07:50.387244098Z",
+     "userRating": 5,
+     "averageRating": 5,
+     "genres": [],
+     "musicBrainzId": "",
+     "isCompilation": false,
+     "sortName": "8-bit lagerfeuer",
+     "discTitles": [],
+     "originalReleaseDate": {},
+     "releaseDate": {},
+     "releaseTypes": [],
+     "recordLabels": [],
+     "moods": [],
+     "artists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayArtist": "pornophonique",
+     "explicitStatus": "",
+     "version": ""
+    },
+    {
+     "id": "24FP6ZabS8uIixYYSpJ963",
+     "name": "the procacci remixes, vol. I",
+     "artist": "pornophonique",
+     "artistId": "24jpYAI4N8TG0cCAYyzZk5",
+     "coverArt": "al-24FP6ZabS8uIixYYSpJ963_640a93aa",
+     "songCount": 4,
+     "duration": 1175,
+     "playCount": 1420,
+     "created": "2025-03-26T22:26:49.004857922Z",
+     "year": 2007,
+     "genre": "Electronic",
+     "played": "2026-09-11T21:04:42.256004941Z",
+     "userRating": 5,
+     "averageRating": 5,
+     "genres": [
+      {
+       "name": "Electronic"
+      },
+      {
+       "name": "Funk"
+      },
+      {
+       "name": "Pop"
+      }
+     ],
+     "musicBrainzId": "",
+     "isCompilation": false,
+     "sortName": "the procacci remixes, vol. i",
+     "discTitles": [],
+     "originalReleaseDate": {},
+     "releaseDate": {},
+     "releaseTypes": [],
+     "recordLabels": [
+      {
+       "name": "http://www.jamendo.com"
+      }
+     ],
+     "moods": [],
+     "artists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayArtist": "pornophonique",
+     "explicitStatus": "",
+     "version": ""
+    }
+   ]
+  }
+ }
+}

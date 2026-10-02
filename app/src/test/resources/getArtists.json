@@ -1,0 +1,165 @@
+{
+ "subsonic-response": {
+  "status": "ok",
+  "version": "1.16.1",
+  "type": "navidrome",
+  "serverVersion": "0.63.2 (be10f89c)",
+  "openSubsonic": true,
+  "artists": {
+   "index": [
+    {
+     "name": "#",
+     "artist": [
+      {
+       "id": "33X3V2Xn7Cip7WqqfXNkL8",
+       "name": "2 Mello",
+       "coverArt": "ar-33X3V2Xn7Cip7WqqfXNkL8_0",
+       "albumCount": 1,
+       "starred": "2026-09-11T08:24:18.240596071Z",
+       "userRating": 1,
+       "averageRating": 1,
+       "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTMzWDNWMlhuN0NpcDdXcXFmWE5rTDhfMCIsImlzcyI6Ik5EIn0.hkXyXkfriWejkkfy-Bd4KQ4FVlfWOVwqGGISEDo3hsU?size=600",
+       "musicBrainzId": "",
+       "sortName": "2 mello",
+       "roles": [
+        "albumartist",
+        "artist",
+        "composer",
+        "maincredit"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "B",
+     "artist": [
+      {
+       "id": "04HrSORpypcLGNUdQp37gn",
+       "name": "Back On Earth",
+       "coverArt": "ar-04HrSORpypcLGNUdQp37gn_0",
+       "albumCount": 3,
+       "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTA0SHJTT1JweXBjTEdOVWRRcDM3Z25fMCIsImlzcyI6Ik5EIn0.oYsV4QJDKaPcuwf0p1dnaeR-F_wcelKzFYUW-Omyp0Q?size=600",
+       "musicBrainzId": "",
+       "sortName": "back on earth",
+       "roles": [
+        "albumartist",
+        "artist",
+        "composer",
+        "maincredit"
+       ]
+      },
+      {
+       "id": "30YNjv3jIc6CC6EkI84uWi",
+       "name": "Binaerpilot",
+       "coverArt": "ar-30YNjv3jIc6CC6EkI84uWi_0",
+       "albumCount": 1,
+       "userRating": 1,
+       "averageRating": 1,
+       "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTMwWU5qdjNqSWM2Q0M2RWtJODR1V2lfMCIsImlzcyI6Ik5EIn0.JXyGeUbtYU66y6vIeK1NFMNX-bK91fAw1bW9vIwrPXE?size=600",
+       "musicBrainzId": "",
+       "sortName": "binaerpilot",
+       "roles": [
+        "albumartist",
+        "artist",
+        "composer",
+        "maincredit"
+       ]
+      },
+      {
+       "id": "6xs2hcHrWg1V4kLPc9f8t0",
+       "name": "Brad Sucks",
+       "coverArt": "ar-6xs2hcHrWg1V4kLPc9f8t0_0",
+       "albumCount": 1,
+       "userRating": 3,
+       "averageRating": 3,
+       "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTZ4czJoY0hyV2cxVjRrTFBjOWY4dDBfMCIsImlzcyI6Ik5EIn0.-xKvlgWozJxLRyQybWWp5sVb78UT9XvchBGaLCUcMOs?size=600",
+       "musicBrainzId": "",
+       "sortName": "brad sucks",
+       "roles": [
+        "artist",
+        "composer",
+        "maincredit",
+        "albumartist"
+       ]
+      },
+      {
+       "id": "2Y3qQA6zJC3ObbBrF9ZBoV",
+       "name": "Brock Berrigan",
+       "coverArt": "ar-2Y3qQA6zJC3ObbBrF9ZBoV_0",
+       "albumCount": 3,
+       "starred": "2026-08-12T04:42:23.246739Z",
+       "userRating": 5,
+       "averageRating": 5,
+       "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTJZM3FRQTZ6SkMzT2JiQnJGOVpCb1ZfMCIsImlzcyI6Ik5EIn0._eeJcyA2XNEymWCMAVJDiEvRxN0_EC2lCN8jAjQ2GvQ?size=600",
+       "musicBrainzId": "",
+       "sortName": "brock berrigan",
+       "roles": [
+        "composer",
+        "maincredit",
+        "albumartist",
+        "artist"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "C",
+     "artist": [
+      {
+       "id": "4CHW3onNlrioSqgw1JC1Wh",
+       "name": "Carter Vail",
+       "coverArt": "ar-4CHW3onNlrioSqgw1JC1Wh_0",
+       "albumCount": 1,
+       "starred": "2026-08-13T23:06:39.293629089Z",
+       "userRating": 3,
+       "averageRating": 3,
+       "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTRDSFczb25ObHJpb1NxZ3cxSkMxV2hfMCIsImlzcyI6Ik5EIn0.Xh98Z0UCRW7qoY5J-9Q_7gACDLRIzHTc-a5czve1sX0?size=600",
+       "musicBrainzId": "",
+       "sortName": "carter vail",
+       "roles": [
+        "albumartist",
+        "artist",
+        "composer",
+        "maincredit"
+       ]
+      },
+      {
+       "id": "2rQGkB3GNqsHtobxn6qcWB",
+       "name": "Chillhop Music",
+       "coverArt": "ar-2rQGkB3GNqsHtobxn6qcWB_0",
+       "albumCount": 4,
+       "userRating": 5,
+       "averageRating": 5,
+       "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTJyUUdrQjNHTnFzSHRvYnhuNnFjV0JfMCIsImlzcyI6Ik5EIn0.8wycZ1uCwpMTFnHrGhYLITJTCw8be_XiT0CcuzoMLhQ?size=600",
+       "musicBrainzId": "",
+       "sortName": "chillhop music",
+       "roles": [
+        "albumartist",
+        "maincredit"
+       ]
+      },
+      {
+       "id": "54xIbFYq9XbxPHSjN4m90c",
+       "name": "CrumbSnatchers",
+       "coverArt": "ar-54xIbFYq9XbxPHSjN4m90c_0",
+       "albumCount": 1,
+       "userRating": 2,
+       "averageRating": 2,
+       "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTU0eEliRllxOVhieFBIU2pONG05MGNfMCIsImlzcyI6Ik5EIn0.4MUWxvZtOKxfUljWi1qkpMdFeqNacXwlxrp4-rjnt8A?size=600",
+       "musicBrainzId": "38636ed1-8d32-4721-bbf3-b23805754ab3",
+       "sortName": "crumbsnatchers",
+       "roles": [
+        "albumartist",
+        "artist",
+        "composer",
+        "maincredit"
+       ]
+      }
+     ]
+    }
+   ],
+   "lastModified": 1787781195000,
+   "ignoredArticles": "The El La Los Las Le Les Os As O A"
+  }
+ }
+}

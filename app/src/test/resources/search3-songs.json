@@ -1,0 +1,348 @@
+{
+ "subsonic-response": {
+  "status": "ok",
+  "version": "1.16.1",
+  "type": "navidrome",
+  "serverVersion": "0.63.2 (be10f89c)",
+  "openSubsonic": true,
+  "searchResult3": {
+   "song": [
+    {
+     "id": "s00C9MhOEmlMNNu3DSoWeC",
+     "parent": "5hUTgQpLbrUXmkn8D6Jbwc",
+     "isDir": false,
+     "title": "Can I Have Your Love Tonight",
+     "album": "Can I Have Your Love Tonight",
+     "artist": "Konstentyn",
+     "track": 1,
+     "year": 2020,
+     "genre": "smoothjazz",
+     "coverArt": "mf-s00C9MhOEmlMNNu3DSoWeC_640a92fc",
+     "size": 6556160,
+     "contentType": "audio/mpeg",
+     "suffix": "mp3",
+     "duration": 302,
+     "bitRate": 173,
+     "path": "Konstentyn/Can I Have Your Love Tonight/01 - Can I Have Your Love Tonight.mp3",
+     "playCount": 677,
+     "created": "2025-03-26T22:26:41.029394528Z",
+     "albumId": "5hUTgQpLbrUXmkn8D6Jbwc",
+     "artistId": "17aaSbOlAlhrMGvNYo5Ufa",
+     "type": "music",
+     "userRating": 4,
+     "averageRating": 4,
+     "played": "2026-09-12T10:33:47.759073015Z",
+     "bpm": 0,
+     "comment": "http://www.jamendo.com cc_standard",
+     "sortName": "can i have your love tonight",
+     "mediaType": "song",
+     "musicBrainzId": "",
+     "isrc": [],
+     "genres": [
+      {
+       "name": "smoothjazz"
+      }
+     ],
+     "replayGain": {
+      "trackGain": 0,
+      "albumGain": 0,
+      "trackPeak": 1,
+      "albumPeak": 1
+     },
+     "channelCount": 2,
+     "samplingRate": 44100,
+     "bitDepth": 0,
+     "moods": [],
+     "artists": [
+      {
+       "id": "17aaSbOlAlhrMGvNYo5Ufa",
+       "name": "Konstentyn"
+      }
+     ],
+     "displayArtist": "Konstentyn",
+     "albumArtists": [
+      {
+       "id": "17aaSbOlAlhrMGvNYo5Ufa",
+       "name": "Konstentyn"
+      }
+     ],
+     "displayAlbumArtist": "Konstentyn",
+     "contributors": [
+      {
+       "role": "composer",
+       "artist": {
+        "id": "17aaSbOlAlhrMGvNYo5Ufa",
+        "name": "Konstentyn"
+       }
+      }
+     ],
+     "displayComposer": "Konstentyn",
+     "explicitStatus": "",
+     "groupings": [],
+     "works": [],
+     "movements": []
+    },
+    {
+     "id": "f95BSr0nvgyfgjdcDBC9bX",
+     "parent": "4QZO6nBGty9odiq7pUok5n",
+     "isDir": false,
+     "title": "Love",
+     "album": "Love (All I Was Able To Say)",
+     "artist": "Back On Earth",
+     "track": 1,
+     "year": 2010,
+     "coverArt": "mf-f95BSr0nvgyfgjdcDBC9bX_640a9269",
+     "size": 4459520,
+     "contentType": "audio/mpeg",
+     "suffix": "mp3",
+     "duration": 189,
+     "bitRate": 188,
+     "path": "Back On Earth/Love (All I Was Able To Say)/01 - Love.mp3",
+     "playCount": 656,
+     "created": "2025-03-26T22:26:35.147393221Z",
+     "albumId": "4QZO6nBGty9odiq7pUok5n",
+     "artistId": "04HrSORpypcLGNUdQp37gn",
+     "type": "music",
+     "userRating": 1,
+     "averageRating": 1,
+     "played": "2026-09-12T17:32:45.563317911Z",
+     "bpm": 0,
+     "comment": "http://www.jamendo.com cc_standard",
+     "sortName": "love",
+     "mediaType": "song",
+     "musicBrainzId": "",
+     "isrc": [],
+     "genres": [],
+     "replayGain": {
+      "trackGain": 0,
+      "albumGain": 0,
+      "trackPeak": 1,
+      "albumPeak": 1
+     },
+     "channelCount": 2,
+     "samplingRate": 44100,
+     "bitDepth": 0,
+     "moods": [],
+     "artists": [
+      {
+       "id": "04HrSORpypcLGNUdQp37gn",
+       "name": "Back On Earth"
+      }
+     ],
+     "displayArtist": "Back On Earth",
+     "albumArtists": [
+      {
+       "id": "04HrSORpypcLGNUdQp37gn",
+       "name": "Back On Earth"
+      }
+     ],
+     "displayAlbumArtist": "Back On Earth",
+     "contributors": [
+      {
+       "role": "composer",
+       "artist": {
+        "id": "04HrSORpypcLGNUdQp37gn",
+        "name": "Back On Earth"
+       }
+      }
+     ],
+     "displayComposer": "Back On Earth",
+     "explicitStatus": "",
+     "groupings": [],
+     "works": [],
+     "movements": []
+    },
+    {
+     "id": "57QIoYaSdx0yHS18n81Kbh",
+     "parent": "62P26JyEMotWs11zrXpJ0F",
+     "isDir": false,
+     "title": "So In Love",
+     "album": "Point Pleasant",
+     "artist": "Brock Berrigan",
+     "track": 9,
+     "year": 2017,
+     "coverArt": "mf-57QIoYaSdx0yHS18n81Kbh_640a9280",
+     "size": 4943755,
+     "contentType": "audio/mpeg",
+     "suffix": "mp3",
+     "starred": "2026-08-10T16:40:40.80078331Z",
+     "duration": 121,
+     "bitRate": 320,
+     "path": "Brock Berrigan/Point Pleasant/09 - So In Love.mp3",
+     "playCount": 172,
+     "created": "2025-03-26T22:26:37.033222875Z",
+     "albumId": "62P26JyEMotWs11zrXpJ0F",
+     "artistId": "2Y3qQA6zJC3ObbBrF9ZBoV",
+     "type": "music",
+     "userRating": 1,
+     "averageRating": 1,
+     "played": "2026-09-02T10:21:30.520670701Z",
+     "bpm": 0,
+     "comment": "Visit http://chillhop.bandcamp.com",
+     "sortName": "so in love",
+     "mediaType": "song",
+     "musicBrainzId": "",
+     "isrc": [],
+     "genres": [],
+     "replayGain": {
+      "trackGain": 0,
+      "albumGain": 0,
+      "trackPeak": 1,
+      "albumPeak": 1
+     },
+     "channelCount": 2,
+     "samplingRate": 44100,
+     "bitDepth": 0,
+     "moods": [],
+     "artists": [
+      {
+       "id": "2Y3qQA6zJC3ObbBrF9ZBoV",
+       "name": "Brock Berrigan"
+      }
+     ],
+     "displayArtist": "Brock Berrigan",
+     "albumArtists": [
+      {
+       "id": "2Y3qQA6zJC3ObbBrF9ZBoV",
+       "name": "Brock Berrigan"
+      }
+     ],
+     "displayAlbumArtist": "Brock Berrigan",
+     "contributors": [],
+     "displayComposer": "",
+     "explicitStatus": "",
+     "groupings": [],
+     "works": [],
+     "movements": []
+    },
+    {
+     "id": "AYJK7GsCdUmwrD94xGy6Xe",
+     "parent": "2cahnhu6UPen2wbYDm4CHK",
+     "isDir": false,
+     "title": "lemmings in love",
+     "album": "8-bit lagerfeuer",
+     "artist": "pornophonique",
+     "track": 3,
+     "year": 2007,
+     "coverArt": "mf-AYJK7GsCdUmwrD94xGy6Xe_640a93a7",
+     "size": 9511640,
+     "contentType": "audio/mpeg",
+     "suffix": "mp3",
+     "starred": "2026-09-11T19:13:44.830106126Z",
+     "duration": 312,
+     "bitRate": 241,
+     "path": "pornophonique/8-bit lagerfeuer/03 - lemmings in love.mp3",
+     "playCount": 593,
+     "created": "2025-03-26T22:26:48.830744863Z",
+     "albumId": "2cahnhu6UPen2wbYDm4CHK",
+     "artistId": "24jpYAI4N8TG0cCAYyzZk5",
+     "type": "music",
+     "userRating": 1,
+     "averageRating": 1,
+     "played": "2026-09-12T15:44:06.283Z",
+     "bpm": 0,
+     "comment": "Visit http://pornophonique.bandcamp.com",
+     "sortName": "lemmings in love",
+     "mediaType": "song",
+     "musicBrainzId": "",
+     "isrc": [],
+     "genres": [],
+     "replayGain": {
+      "trackGain": 0,
+      "albumGain": 0,
+      "trackPeak": 1,
+      "albumPeak": 1
+     },
+     "channelCount": 2,
+     "samplingRate": 44100,
+     "bitDepth": 0,
+     "moods": [],
+     "artists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayArtist": "pornophonique",
+     "albumArtists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayAlbumArtist": "pornophonique",
+     "contributors": [],
+     "displayComposer": "",
+     "explicitStatus": "",
+     "groupings": [],
+     "works": [],
+     "movements": []
+    },
+    {
+     "id": "jSmk9qN947AS9qkqWge7oW",
+     "parent": "3hJ2WYja5szJL3WYN0h77x",
+     "isDir": false,
+     "title": "So In Love",
+     "album": "Chillhop Essentials - Spring 2016",
+     "artist": "Brock Berrigan",
+     "track": 1,
+     "year": 2016,
+     "coverArt": "mf-jSmk9qN947AS9qkqWge7oW_640a92a7",
+     "size": 4976523,
+     "contentType": "audio/mpeg",
+     "suffix": "mp3",
+     "duration": 121,
+     "bitRate": 320,
+     "path": "Chillhop Music/Chillhop Essentials - Spring 2016/01 - So In Love.mp3",
+     "playCount": 625,
+     "created": "2025-03-26T22:26:38.466088908Z",
+     "albumId": "3hJ2WYja5szJL3WYN0h77x",
+     "artistId": "2Y3qQA6zJC3ObbBrF9ZBoV",
+     "type": "music",
+     "userRating": 1,
+     "averageRating": 1,
+     "played": "2026-09-11T06:59:08.836Z",
+     "bpm": 0,
+     "comment": "Visit http://chillhop.bandcamp.com",
+     "sortName": "so in love",
+     "mediaType": "song",
+     "musicBrainzId": "",
+     "isrc": [
+      "USLZJ1632644"
+     ],
+     "genres": [],
+     "replayGain": {
+      "trackGain": 0,
+      "albumGain": 0,
+      "trackPeak": 1,
+      "albumPeak": 1
+     },
+     "channelCount": 2,
+     "samplingRate": 44100,
+     "bitDepth": 0,
+     "moods": [],
+     "artists": [
+      {
+       "id": "2Y3qQA6zJC3ObbBrF9ZBoV",
+       "name": "Brock Berrigan"
+      }
+     ],
+     "displayArtist": "Brock Berrigan",
+     "albumArtists": [
+      {
+       "id": "2rQGkB3GNqsHtobxn6qcWB",
+       "name": "Chillhop Music"
+      }
+     ],
+     "displayAlbumArtist": "Chillhop Music",
+     "contributors": [],
+     "displayComposer": "",
+     "explicitStatus": "",
+     "groupings": [],
+     "works": [],
+     "movements": []
+    }
+   ]
+  }
+ }
+}

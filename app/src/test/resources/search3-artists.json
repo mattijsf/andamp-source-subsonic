@@ -1,0 +1,85 @@
+{
+ "subsonic-response": {
+  "status": "ok",
+  "version": "1.16.1",
+  "type": "navidrome",
+  "serverVersion": "0.63.2 (be10f89c)",
+  "openSubsonic": true,
+  "searchResult3": {
+   "artist": [
+    {
+     "id": "20STZgqQy1hgVQnBXWKepJ",
+     "name": "The Cancel",
+     "coverArt": "ar-20STZgqQy1hgVQnBXWKepJ_0",
+     "albumCount": 0,
+     "userRating": 2,
+     "averageRating": 2,
+     "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTIwU1RaZ3FReTFoZ1ZRbkJYV0tlcEpfMCIsImlzcyI6Ik5EIn0.tm-EgOr_rEkznnQh5UGZqf1DEj8Mp9zmWIQOlZX41Lk?size=600",
+     "musicBrainzId": "",
+     "sortName": "cancel",
+     "roles": [
+      "artist",
+      "maincredit"
+     ]
+    },
+    {
+     "id": "2Lj316DRoue3aHpl7aMaYL",
+     "name": "The Fakers",
+     "coverArt": "ar-2Lj316DRoue3aHpl7aMaYL_0",
+     "albumCount": 0,
+     "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTJMajMxNkRSb3VlM2FIcGw3YU1hWUxfMCIsImlzcyI6Ik5EIn0.ESLBmCbpoFp5IsruQritqD49N815sYUEJDs9FQCNs5U?size=600",
+     "musicBrainzId": "",
+     "sortName": "fakers",
+     "roles": [
+      "artist",
+      "maincredit"
+     ]
+    },
+    {
+     "id": "4zJTsH5C2GsF3TiFcM9rU4",
+     "name": "The Grits",
+     "coverArt": "ar-4zJTsH5C2GsF3TiFcM9rU4_0",
+     "albumCount": 0,
+     "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTR6SlRzSDVDMkdzRjNUaUZjTTlyVTRfMCIsImlzcyI6Ik5EIn0.Qvut9OrnbUo1NONSgEY7fB9NZVfuUziI_D5Iu23VdJc?size=600",
+     "musicBrainzId": "",
+     "sortName": "grits",
+     "roles": [
+      "artist",
+      "maincredit"
+     ]
+    },
+    {
+     "id": "0Qg0EyigYQqs3B5wVa3BfO",
+     "name": "The Knife",
+     "coverArt": "ar-0Qg0EyigYQqs3B5wVa3BfO_0",
+     "albumCount": 1,
+     "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTBRZzBFeWlnWVFxczNCNXdWYTNCZk9fMCIsImlzcyI6Ik5EIn0.Y1aiiM5ffoShpIamRw69zqVLPQlpMiQuywaWURShpbY?size=600",
+     "musicBrainzId": "",
+     "sortName": "knife",
+     "roles": [
+      "maincredit",
+      "albumartist",
+      "artist"
+     ]
+    },
+    {
+     "id": "4We5GCR5qWUG0TLWJqVBDi",
+     "name": "Forget the Whale",
+     "coverArt": "ar-4We5GCR5qWUG0TLWJqVBDi_0",
+     "albumCount": 5,
+     "userRating": 4,
+     "averageRating": 4,
+     "artistImageUrl": "https://demo.navidrome.org/share/img/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFyLTRXZTVHQ1I1cVdVRzBUTFdKcVZCRGlfMCIsImlzcyI6Ik5EIn0.yYGYLTyb7HoNQ_hyYnDVmUSPWbsfJdsijnXm_wlSC1M?size=600",
+     "musicBrainzId": "",
+     "sortName": "forget the whale",
+     "roles": [
+      "albumartist",
+      "artist",
+      "composer",
+      "maincredit"
+     ]
+    }
+   ]
+  }
+ }
+}

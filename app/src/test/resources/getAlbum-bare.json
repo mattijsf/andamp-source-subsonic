@@ -1,0 +1,106 @@
+{
+ "subsonic-response": {
+  "status": "ok",
+  "version": "1.16.1",
+  "type": "navidrome",
+  "serverVersion": "0.63.2 (be10f89c)",
+  "openSubsonic": true,
+  "album": {
+   "id": "2cahnhu6UPen2wbYDm4CHK",
+   "name": "8-bit lagerfeuer",
+   "artist": "pornophonique",
+   "artistId": "24jpYAI4N8TG0cCAYyzZk5",
+   "coverArt": "al-2cahnhu6UPen2wbYDm4CHK_640a93a8",
+   "songCount": 1,
+   "duration": 1954,
+   "playCount": 5977,
+   "created": "2025-03-26T22:26:48.822020234Z",
+   "starred": "2026-09-11T21:26:57.083118238Z",
+   "year": 2007,
+   "played": "2026-09-12T18:07:50.387244098Z",
+   "userRating": 5,
+   "averageRating": 5,
+   "genres": [],
+   "musicBrainzId": "",
+   "isCompilation": false,
+   "sortName": "8-bit lagerfeuer",
+   "discTitles": [],
+   "originalReleaseDate": {},
+   "releaseDate": {},
+   "releaseTypes": [],
+   "recordLabels": [],
+   "moods": [],
+   "artists": [
+    {
+     "id": "24jpYAI4N8TG0cCAYyzZk5",
+     "name": "pornophonique"
+    }
+   ],
+   "displayArtist": "pornophonique",
+   "explicitStatus": "",
+   "version": "",
+   "song": [
+    {
+     "id": "Kbh4QvrgGcPgsjdK8cd448",
+     "parent": "2cahnhu6UPen2wbYDm4CHK",
+     "isDir": false,
+     "title": "sad robot",
+     "album": "8-bit lagerfeuer",
+     "artist": "pornophonique",
+     "track": 1,
+     "year": 2007,
+     "size": 9870638,
+     "contentType": "audio/mpeg",
+     "suffix": "mp3",
+     "starred": "2026-09-10T16:33:52.119816984Z",
+     "duration": 312,
+     "path": "pornophonique/8-bit lagerfeuer/01 - sad robot.mp3",
+     "playCount": 2209,
+     "created": "2025-03-26T22:26:48.842526623Z",
+     "albumId": "2cahnhu6UPen2wbYDm4CHK",
+     "artistId": "24jpYAI4N8TG0cCAYyzZk5",
+     "type": "music",
+     "userRating": 1,
+     "averageRating": 1,
+     "played": "2026-09-12T16:25:38.20145125Z",
+     "bpm": 0,
+     "comment": "Visit http://pornophonique.bandcamp.com",
+     "sortName": "sad robot",
+     "mediaType": "song",
+     "musicBrainzId": "",
+     "isrc": [],
+     "genres": [],
+     "replayGain": {
+      "trackGain": 0,
+      "albumGain": 0,
+      "trackPeak": 1,
+      "albumPeak": 1
+     },
+     "channelCount": 2,
+     "bitDepth": 0,
+     "moods": [],
+     "artists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayArtist": "pornophonique",
+     "albumArtists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayAlbumArtist": "pornophonique",
+     "contributors": [],
+     "displayComposer": "",
+     "explicitStatus": "",
+     "groupings": [],
+     "works": [],
+     "movements": []
+    }
+   ]
+  }
+ }
+}

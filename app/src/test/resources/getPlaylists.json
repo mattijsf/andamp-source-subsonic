@@ -1,0 +1,80 @@
+{
+ "subsonic-response": {
+  "status": "ok",
+  "version": "1.16.1",
+  "type": "navidrome",
+  "serverVersion": "0.63.2 (be10f89c)",
+  "openSubsonic": true,
+  "playlists": {
+   "playlist": [
+    {
+     "id": "3gYtg8NQqOlS5yJvloApOU",
+     "name": "__vellum_0e951997880b",
+     "songCount": 1,
+     "duration": 187,
+     "owner": "demo",
+     "created": "2026-09-12T09:00:34.874145877Z",
+     "changed": "2026-09-12T10:37:05.454888039Z",
+     "coverArt": "pl-3gYtg8NQqOlS5yJvloApOU_6aa52b51",
+     "readonly": false
+    },
+    {
+     "id": "SYzhQKo2DL4Acv48DhcuQM",
+     "name": "asdf",
+     "songCount": 0,
+     "duration": 0,
+     "owner": "demo",
+     "created": "2026-09-12T17:02:23.044445345Z",
+     "changed": "2026-09-12T17:02:23.044445509Z",
+     "coverArt": "pl-SYzhQKo2DL4Acv48DhcuQM_6aa5859f",
+     "readonly": false
+    },
+    {
+     "id": "XV0QaSPikZWPyOUFY05jPz",
+     "name": "Hhhh",
+     "songCount": 0,
+     "duration": 0,
+     "public": true,
+     "owner": "demo",
+     "created": "2026-09-12T16:27:06.441284659Z",
+     "changed": "2026-09-12T16:27:06.441284859Z",
+     "coverArt": "pl-XV0QaSPikZWPyOUFY05jPz_6aa57d5a",
+     "readonly": false
+    },
+    {
+     "id": "f7KKMfrmYIO02fJFAf8Fc6",
+     "name": "Hip-Hop",
+     "songCount": 0,
+     "duration": 0,
+     "owner": "demo",
+     "created": "2026-09-12T11:34:22.884822284Z",
+     "changed": "2026-09-12T11:34:22.884822438Z",
+     "coverArt": "pl-f7KKMfrmYIO02fJFAf8Fc6_6aa538be",
+     "readonly": false
+    },
+    {
+     "id": "cGsh1UvqLdB3FcaWhLqHG8",
+     "name": "ShuffleOrderTest",
+     "songCount": 5,
+     "duration": 1143,
+     "owner": "demo",
+     "created": "2026-09-12T10:45:46.720177482Z",
+     "changed": "2026-09-12T10:45:46.721307336Z",
+     "coverArt": "pl-cGsh1UvqLdB3FcaWhLqHG8_6aa52d5a",
+     "readonly": false
+    },
+    {
+     "id": "YNPVIToL63EQ0lA44exzJq",
+     "name": "TestShufflePlaylist",
+     "songCount": 2,
+     "duration": 360,
+     "owner": "demo",
+     "created": "2026-09-12T10:45:05.382003891Z",
+     "changed": "2026-09-12T10:45:05.383072323Z",
+     "coverArt": "pl-YNPVIToL63EQ0lA44exzJq_6aa52d31",
+     "readonly": false
+    }
+   ]
+  }
+ }
+}

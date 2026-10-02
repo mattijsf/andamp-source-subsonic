@@ -1,0 +1,299 @@
+{
+ "subsonic-response": {
+  "status": "ok",
+  "version": "1.16.1",
+  "type": "navidrome",
+  "serverVersion": "0.63.2 (be10f89c)",
+  "openSubsonic": true,
+  "album": {
+   "id": "2cahnhu6UPen2wbYDm4CHK",
+   "name": "8-bit lagerfeuer",
+   "artist": "pornophonique",
+   "artistId": "24jpYAI4N8TG0cCAYyzZk5",
+   "coverArt": "al-2cahnhu6UPen2wbYDm4CHK_640a93a8",
+   "songCount": 8,
+   "duration": 1954,
+   "playCount": 5977,
+   "created": "2025-03-26T22:26:48.822020234Z",
+   "starred": "2026-09-11T21:26:57.083118238Z",
+   "year": 2007,
+   "played": "2026-09-12T18:07:50.387244098Z",
+   "userRating": 5,
+   "averageRating": 5,
+   "genres": [],
+   "musicBrainzId": "",
+   "isCompilation": false,
+   "sortName": "8-bit lagerfeuer",
+   "discTitles": [],
+   "originalReleaseDate": {},
+   "releaseDate": {},
+   "releaseTypes": [],
+   "recordLabels": [],
+   "moods": [],
+   "artists": [
+    {
+     "id": "24jpYAI4N8TG0cCAYyzZk5",
+     "name": "pornophonique"
+    }
+   ],
+   "displayArtist": "pornophonique",
+   "explicitStatus": "",
+   "version": "",
+   "song": [
+    {
+     "id": "Kbh4QvrgGcPgsjdK8cd448",
+     "parent": "2cahnhu6UPen2wbYDm4CHK",
+     "isDir": false,
+     "title": "sad robot",
+     "album": "8-bit lagerfeuer",
+     "artist": "pornophonique",
+     "track": 1,
+     "year": 2007,
+     "coverArt": "mf-Kbh4QvrgGcPgsjdK8cd448_640a93a4",
+     "size": 9870638,
+     "contentType": "audio/mpeg",
+     "suffix": "mp3",
+     "starred": "2026-09-10T16:33:52.119816984Z",
+     "duration": 312,
+     "bitRate": 248,
+     "path": "pornophonique/8-bit lagerfeuer/01 - sad robot.mp3",
+     "playCount": 2209,
+     "created": "2025-03-26T22:26:48.842526623Z",
+     "albumId": "2cahnhu6UPen2wbYDm4CHK",
+     "artistId": "24jpYAI4N8TG0cCAYyzZk5",
+     "type": "music",
+     "userRating": 1,
+     "averageRating": 1,
+     "played": "2026-09-12T16:25:38.20145125Z",
+     "bpm": 0,
+     "comment": "Visit http://pornophonique.bandcamp.com",
+     "sortName": "sad robot",
+     "mediaType": "song",
+     "musicBrainzId": "",
+     "isrc": [],
+     "genres": [],
+     "replayGain": {
+      "trackGain": 0,
+      "albumGain": 0,
+      "trackPeak": 1,
+      "albumPeak": 1
+     },
+     "channelCount": 2,
+     "samplingRate": 44100,
+     "bitDepth": 0,
+     "moods": [],
+     "artists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayArtist": "pornophonique",
+     "albumArtists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayAlbumArtist": "pornophonique",
+     "contributors": [],
+     "displayComposer": "",
+     "explicitStatus": "",
+     "groupings": [],
+     "works": [],
+     "movements": []
+    },
+    {
+     "id": "b0wmVTpAo1WEBt2vaKCspB",
+     "parent": "2cahnhu6UPen2wbYDm4CHK",
+     "isDir": false,
+     "title": "take me to the bonus level because i need an extra life",
+     "album": "8-bit lagerfeuer",
+     "artist": "pornophonique",
+     "track": 2,
+     "year": 2007,
+     "coverArt": "mf-b0wmVTpAo1WEBt2vaKCspB_640a93a6",
+     "size": 5515568,
+     "contentType": "audio/mpeg",
+     "suffix": "mp3",
+     "starred": "2026-09-11T21:27:16.115224572Z",
+     "duration": 172,
+     "bitRate": 247,
+     "path": "pornophonique/8-bit lagerfeuer/02 - take me to the bonus level because i need an extra life.mp3",
+     "playCount": 942,
+     "created": "2025-03-26T22:26:48.845151623Z",
+     "albumId": "2cahnhu6UPen2wbYDm4CHK",
+     "artistId": "24jpYAI4N8TG0cCAYyzZk5",
+     "type": "music",
+     "userRating": 4,
+     "averageRating": 4,
+     "bookmarkPosition": 3823,
+     "played": "2026-09-12T15:13:13.544Z",
+     "bpm": 0,
+     "comment": "Visit http://pornophonique.bandcamp.com",
+     "sortName": "take me to the bonus level because i need an extra life",
+     "mediaType": "song",
+     "musicBrainzId": "",
+     "isrc": [],
+     "genres": [],
+     "replayGain": {
+      "trackGain": 0,
+      "albumGain": 0,
+      "trackPeak": 1,
+      "albumPeak": 1
+     },
+     "channelCount": 2,
+     "samplingRate": 44100,
+     "bitDepth": 0,
+     "moods": [],
+     "artists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayArtist": "pornophonique",
+     "albumArtists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayAlbumArtist": "pornophonique",
+     "contributors": [],
+     "displayComposer": "",
+     "explicitStatus": "",
+     "groupings": [],
+     "works": [],
+     "movements": []
+    },
+    {
+     "id": "AYJK7GsCdUmwrD94xGy6Xe",
+     "parent": "2cahnhu6UPen2wbYDm4CHK",
+     "isDir": false,
+     "title": "lemmings in love",
+     "album": "8-bit lagerfeuer",
+     "artist": "pornophonique",
+     "track": 3,
+     "year": 2007,
+     "coverArt": "mf-AYJK7GsCdUmwrD94xGy6Xe_640a93a7",
+     "size": 9511640,
+     "contentType": "audio/mpeg",
+     "suffix": "mp3",
+     "starred": "2026-09-11T19:13:44.830106126Z",
+     "duration": 312,
+     "bitRate": 241,
+     "path": "pornophonique/8-bit lagerfeuer/03 - lemmings in love.mp3",
+     "playCount": 593,
+     "created": "2025-03-26T22:26:48.830744863Z",
+     "albumId": "2cahnhu6UPen2wbYDm4CHK",
+     "artistId": "24jpYAI4N8TG0cCAYyzZk5",
+     "type": "music",
+     "userRating": 1,
+     "averageRating": 1,
+     "played": "2026-09-12T15:44:06.283Z",
+     "bpm": 0,
+     "comment": "Visit http://pornophonique.bandcamp.com",
+     "sortName": "lemmings in love",
+     "mediaType": "song",
+     "musicBrainzId": "",
+     "isrc": [],
+     "genres": [],
+     "replayGain": {
+      "trackGain": 0,
+      "albumGain": 0,
+      "trackPeak": 1,
+      "albumPeak": 1
+     },
+     "channelCount": 2,
+     "samplingRate": 44100,
+     "bitDepth": 0,
+     "moods": [],
+     "artists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayArtist": "pornophonique",
+     "albumArtists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayAlbumArtist": "pornophonique",
+     "contributors": [],
+     "displayComposer": "",
+     "explicitStatus": "",
+     "groupings": [],
+     "works": [],
+     "movements": []
+    },
+    {
+     "id": "zfU6r2wffSxnb3bFUw8LEZ",
+     "parent": "2cahnhu6UPen2wbYDm4CHK",
+     "isDir": false,
+     "title": "space invaders",
+     "album": "8-bit lagerfeuer",
+     "artist": "pornophonique",
+     "track": 4,
+     "year": 2007,
+     "coverArt": "mf-zfU6r2wffSxnb3bFUw8LEZ_640a93a6",
+     "size": 6214048,
+     "contentType": "audio/mpeg",
+     "suffix": "mp3",
+     "starred": "2026-09-11T21:27:53.470939721Z",
+     "duration": 206,
+     "bitRate": 234,
+     "path": "pornophonique/8-bit lagerfeuer/04 - space invaders.mp3",
+     "playCount": 548,
+     "created": "2025-03-26T22:26:48.832777488Z",
+     "albumId": "2cahnhu6UPen2wbYDm4CHK",
+     "artistId": "24jpYAI4N8TG0cCAYyzZk5",
+     "type": "music",
+     "userRating": 5,
+     "averageRating": 5,
+     "played": "2026-09-12T18:07:50.387244098Z",
+     "bpm": 0,
+     "comment": "Visit http://pornophonique.bandcamp.com",
+     "sortName": "space invaders",
+     "mediaType": "song",
+     "musicBrainzId": "",
+     "isrc": [],
+     "genres": [],
+     "replayGain": {
+      "trackGain": 0,
+      "albumGain": 0,
+      "trackPeak": 1,
+      "albumPeak": 1
+     },
+     "channelCount": 2,
+     "samplingRate": 44100,
+     "bitDepth": 0,
+     "moods": [],
+     "artists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayArtist": "pornophonique",
+     "albumArtists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayAlbumArtist": "pornophonique",
+     "contributors": [],
+     "displayComposer": "",
+     "explicitStatus": "",
+     "groupings": [],
+     "works": [],
+     "movements": []
+    }
+   ]
+  }
+ }
+}

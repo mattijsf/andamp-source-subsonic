@@ -1,0 +1,408 @@
+{
+ "subsonic-response": {
+  "status": "ok",
+  "version": "1.16.1",
+  "type": "navidrome",
+  "serverVersion": "0.63.2 (be10f89c)",
+  "openSubsonic": true,
+  "albumList2": {
+   "album": [
+    {
+     "id": "2cahnhu6UPen2wbYDm4CHK",
+     "name": "8-bit lagerfeuer",
+     "artist": "pornophonique",
+     "artistId": "24jpYAI4N8TG0cCAYyzZk5",
+     "coverArt": "al-2cahnhu6UPen2wbYDm4CHK_640a93a8",
+     "songCount": 8,
+     "duration": 1954,
+     "playCount": 5977,
+     "created": "2025-03-26T22:26:48.822020234Z",
+     "starred": "2026-09-11T21:26:57.083118238Z",
+     "year": 2007,
+     "played": "2026-09-12T18:07:50.387244098Z",
+     "userRating": 5,
+     "averageRating": 5,
+     "genres": [],
+     "musicBrainzId": "",
+     "isCompilation": false,
+     "sortName": "8-bit lagerfeuer",
+     "discTitles": [],
+     "originalReleaseDate": {},
+     "releaseDate": {},
+     "releaseTypes": [],
+     "recordLabels": [],
+     "moods": [],
+     "artists": [
+      {
+       "id": "24jpYAI4N8TG0cCAYyzZk5",
+       "name": "pornophonique"
+      }
+     ],
+     "displayArtist": "pornophonique",
+     "explicitStatus": "",
+     "version": ""
+    },
+    {
+     "id": "4YmahYjTLJyCPvqjT7975H",
+     "name": "Between two worlds",
+     "artist": "Maya Filipi\u010d",
+     "artistId": "5vrYCaubPfhYUEBmovhIIB",
+     "coverArt": "al-4YmahYjTLJyCPvqjT7975H_640a9302",
+     "songCount": 11,
+     "duration": 2186,
+     "playCount": 5953,
+     "created": "2025-03-26T22:26:41.427305785Z",
+     "starred": "2026-09-10T20:59:18.087423613Z",
+     "year": 2008,
+     "genre": "Classical",
+     "played": "2026-09-12T19:26:06.059165155Z",
+     "userRating": 3,
+     "averageRating": 3,
+     "genres": [
+      {
+       "name": "Classical"
+      },
+      {
+       "name": "newage"
+      }
+     ],
+     "musicBrainzId": "",
+     "isCompilation": false,
+     "sortName": "between two worlds",
+     "discTitles": [],
+     "originalReleaseDate": {},
+     "releaseDate": {},
+     "releaseTypes": [],
+     "recordLabels": [
+      {
+       "name": "http://www.jamendo.com"
+      }
+     ],
+     "moods": [],
+     "artists": [
+      {
+       "id": "5vrYCaubPfhYUEBmovhIIB",
+       "name": "Maya Filipi\u010d"
+      }
+     ],
+     "displayArtist": "Maya Filipi\u010d",
+     "explicitStatus": "",
+     "version": ""
+    },
+    {
+     "id": "2h5JJXNsEdrYbwM5b7hbAS",
+     "name": "Big House",
+     "artist": "CrumbSnatchers",
+     "artistId": "54xIbFYq9XbxPHSjN4m90c",
+     "coverArt": "al-2h5JJXNsEdrYbwM5b7hbAS_665fccde",
+     "songCount": 13,
+     "duration": 3176,
+     "playCount": 1974,
+     "created": "2025-03-26T22:26:38.753934963Z",
+     "year": 2016,
+     "genre": "Punk",
+     "played": "2026-09-12T18:33:53.063422092Z",
+     "userRating": 4,
+     "averageRating": 4,
+     "genres": [
+      {
+       "name": "Punk"
+      }
+     ],
+     "musicBrainzId": "39c6fa9e-42aa-40e3-89e8-f303eb15141c",
+     "isCompilation": false,
+     "sortName": "big house",
+     "discTitles": [],
+     "originalReleaseDate": {
+      "year": 2016,
+      "month": 5,
+      "day": 20
+     },
+     "releaseDate": {},
+     "releaseTypes": [
+      "album"
+     ],
+     "recordLabels": [
+      {
+       "name": "Jamendo"
+      }
+     ],
+     "moods": [],
+     "artists": [
+      {
+       "id": "54xIbFYq9XbxPHSjN4m90c",
+       "name": "CrumbSnatchers"
+      }
+     ],
+     "displayArtist": "CrumbSnatchers",
+     "explicitStatus": "",
+     "version": ""
+    },
+    {
+     "id": "5mCHAKT6FQSLoJKREdMum8",
+     "name": "Brighten",
+     "artist": "Back On Earth",
+     "artistId": "04HrSORpypcLGNUdQp37gn",
+     "coverArt": "al-5mCHAKT6FQSLoJKREdMum8_640a926b",
+     "songCount": 3,
+     "duration": 560,
+     "playCount": 1008,
+     "created": "2025-03-26T22:26:35.344479456Z",
+     "starred": "2026-09-11T06:14:23.599227803Z",
+     "year": 2013,
+     "played": "2026-09-11T23:01:37.452229763Z",
+     "userRating": 4,
+     "averageRating": 4,
+     "genres": [],
+     "musicBrainzId": "",
+     "isCompilation": false,
+     "sortName": "brighten",
+     "discTitles": [],
+     "originalReleaseDate": {},
+     "releaseDate": {},
+     "releaseTypes": [],
+     "recordLabels": [
+      {
+       "name": "http://www.jamendo.com"
+      }
+     ],
+     "moods": [],
+     "artists": [
+      {
+       "id": "04HrSORpypcLGNUdQp37gn",
+       "name": "Back On Earth"
+      }
+     ],
+     "displayArtist": "Back On Earth",
+     "explicitStatus": "",
+     "version": ""
+    },
+    {
+     "id": "3Ss0LvMLYHiAOYlMrwcxtj",
+     "name": "The Butcher's Ballroom",
+     "artist": "Diablo Swing Orchestra",
+     "artistId": "1HwxFm38Myi4KG5WMEDS2K",
+     "coverArt": "al-3Ss0LvMLYHiAOYlMrwcxtj_640a92ca",
+     "songCount": 13,
+     "duration": 3009,
+     "playCount": 2533,
+     "created": "2025-03-26T22:26:39.814531353Z",
+     "starred": "2026-09-11T16:04:26.583891576Z",
+     "year": 2009,
+     "genre": "Rock",
+     "played": "2026-09-12T18:47:35.948194626Z",
+     "userRating": 5,
+     "averageRating": 5,
+     "genres": [
+      {
+       "name": "Rock"
+      }
+     ],
+     "musicBrainzId": "",
+     "isCompilation": false,
+     "sortName": "butcher's ballroom",
+     "discTitles": [],
+     "originalReleaseDate": {},
+     "releaseDate": {},
+     "releaseTypes": [],
+     "recordLabels": [
+      {
+       "name": "http://www.jamendo.com"
+      }
+     ],
+     "moods": [],
+     "artists": [
+      {
+       "id": "1HwxFm38Myi4KG5WMEDS2K",
+       "name": "Diablo Swing Orchestra"
+      }
+     ],
+     "displayArtist": "Diablo Swing Orchestra",
+     "explicitStatus": "",
+     "version": ""
+    },
+    {
+     "id": "5hUTgQpLbrUXmkn8D6Jbwc",
+     "name": "Can I Have Your Love Tonight",
+     "artist": "Konstentyn",
+     "artistId": "17aaSbOlAlhrMGvNYo5Ufa",
+     "coverArt": "al-5hUTgQpLbrUXmkn8D6Jbwc_640a92fc",
+     "songCount": 1,
+     "duration": 302,
+     "playCount": 677,
+     "created": "2025-03-26T22:26:41.02330302Z",
+     "year": 2020,
+     "genre": "smoothjazz",
+     "played": "2026-09-12T10:33:47.759073015Z",
+     "userRating": 3,
+     "averageRating": 3,
+     "genres": [
+      {
+       "name": "smoothjazz"
+      }
+     ],
+     "musicBrainzId": "",
+     "isCompilation": false,
+     "sortName": "can i have your love tonight",
+     "discTitles": [],
+     "originalReleaseDate": {},
+     "releaseDate": {},
+     "releaseTypes": [],
+     "recordLabels": [
+      {
+       "name": "http://www.jamendo.com"
+      }
+     ],
+     "moods": [],
+     "artists": [
+      {
+       "id": "17aaSbOlAlhrMGvNYo5Ufa",
+       "name": "Konstentyn"
+      }
+     ],
+     "displayArtist": "Konstentyn",
+     "explicitStatus": "",
+     "version": ""
+    },
+    {
+     "id": "1PzQ7ahygHNPRAOSa8la67",
+     "name": "Chillhop Essentials - Fall 2016",
+     "artist": "Chillhop Music",
+     "artistId": "2rQGkB3GNqsHtobxn6qcWB",
+     "coverArt": "al-1PzQ7ahygHNPRAOSa8la67_640a92a5",
+     "songCount": 19,
+     "duration": 3654,
+     "playCount": 5511,
+     "created": "2025-03-26T22:26:38.154990129Z",
+     "year": 2016,
+     "played": "2026-09-12T18:38:05.096135203Z",
+     "userRating": 5,
+     "averageRating": 5,
+     "genres": [],
+     "musicBrainzId": "",
+     "isCompilation": false,
+     "sortName": "chillhop essentials - fall 2016",
+     "discTitles": [],
+     "originalReleaseDate": {},
+     "releaseDate": {},
+     "releaseTypes": [],
+     "recordLabels": [],
+     "moods": [],
+     "artists": [
+      {
+       "id": "2rQGkB3GNqsHtobxn6qcWB",
+       "name": "Chillhop Music"
+      }
+     ],
+     "displayArtist": "Chillhop Music",
+     "explicitStatus": "",
+     "version": ""
+    },
+    {
+     "id": "3hJ2WYja5szJL3WYN0h77x",
+     "name": "Chillhop Essentials - Spring 2016",
+     "artist": "Chillhop Music",
+     "artistId": "2rQGkB3GNqsHtobxn6qcWB",
+     "coverArt": "al-3hJ2WYja5szJL3WYN0h77x_640a92af",
+     "songCount": 17,
+     "duration": 3223,
+     "playCount": 3173,
+     "created": "2025-03-26T22:26:38.431741017Z",
+     "starred": "2026-09-07T11:46:43.319231124Z",
+     "year": 2016,
+     "played": "2026-09-12T17:48:53.380161528Z",
+     "userRating": 1,
+     "averageRating": 1,
+     "genres": [],
+     "musicBrainzId": "",
+     "isCompilation": false,
+     "sortName": "chillhop essentials - spring 2016",
+     "discTitles": [],
+     "originalReleaseDate": {},
+     "releaseDate": {},
+     "releaseTypes": [],
+     "recordLabels": [],
+     "moods": [],
+     "artists": [
+      {
+       "id": "2rQGkB3GNqsHtobxn6qcWB",
+       "name": "Chillhop Music"
+      }
+     ],
+     "displayArtist": "Chillhop Music",
+     "explicitStatus": "",
+     "version": ""
+    },
+    {
+     "id": "63nvdrijlJDyqZ4adVKc2c",
+     "name": "Chillhop Essentials - Summer 2016",
+     "artist": "Chillhop Music",
+     "artistId": "2rQGkB3GNqsHtobxn6qcWB",
+     "coverArt": "al-63nvdrijlJDyqZ4adVKc2c_640a9297",
+     "songCount": 18,
+     "duration": 3315,
+     "playCount": 3343,
+     "created": "2025-03-26T22:26:39.413216568Z",
+     "starred": "2026-09-07T08:02:49.977030438Z",
+     "year": 2016,
+     "played": "2026-09-12T18:24:54.521246633Z",
+     "userRating": 4,
+     "averageRating": 4,
+     "genres": [],
+     "musicBrainzId": "",
+     "isCompilation": false,
+     "sortName": "chillhop essentials - summer 2016",
+     "discTitles": [],
+     "originalReleaseDate": {},
+     "releaseDate": {},
+     "releaseTypes": [],
+     "recordLabels": [],
+     "moods": [],
+     "artists": [
+      {
+       "id": "2rQGkB3GNqsHtobxn6qcWB",
+       "name": "Chillhop Music"
+      }
+     ],
+     "displayArtist": "Chillhop Music",
+     "explicitStatus": "",
+     "version": ""
+    },
+    {
+     "id": "77FBd5orlEFByzriDngu35",
+     "name": "Chillhop Essentials - Winter 2016",
+     "artist": "Chillhop Music",
+     "artistId": "2rQGkB3GNqsHtobxn6qcWB",
+     "coverArt": "al-77FBd5orlEFByzriDngu35_640a92bb",
+     "songCount": 17,
+     "duration": 3105,
+     "playCount": 3572,
+     "created": "2025-03-26T22:26:39.51035067Z",
+     "year": 2016,
+     "played": "2026-09-12T18:10:40.207844924Z",
+     "userRating": 2,
+     "averageRating": 2,
+     "genres": [],
+     "musicBrainzId": "",
+     "isCompilation": false,
+     "sortName": "chillhop essentials - winter 2016",
+     "discTitles": [],
+     "originalReleaseDate": {},
+     "releaseDate": {},
+     "releaseTypes": [],
+     "recordLabels": [],
+     "moods": [],
+     "artists": [
+      {
+       "id": "2rQGkB3GNqsHtobxn6qcWB",
+       "name": "Chillhop Music"
+      }
+     ],
+     "displayArtist": "Chillhop Music",
+     "explicitStatus": "",
+     "version": ""
+    }
+   ]
+  }
+ }
+}

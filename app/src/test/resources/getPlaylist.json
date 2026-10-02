@@ -1,0 +1,90 @@
+{
+ "subsonic-response": {
+  "status": "ok",
+  "version": "1.16.1",
+  "type": "navidrome",
+  "serverVersion": "0.63.2 (be10f89c)",
+  "openSubsonic": true,
+  "playlist": {
+   "id": "3gYtg8NQqOlS5yJvloApOU",
+   "name": "__vellum_0e951997880b",
+   "songCount": 1,
+   "duration": 187,
+   "owner": "demo",
+   "created": "2026-09-12T09:00:34.874145877Z",
+   "changed": "2026-09-12T10:37:05.454888039Z",
+   "coverArt": "pl-3gYtg8NQqOlS5yJvloApOU_6aa52b51",
+   "readonly": false,
+   "entry": [
+    {
+     "id": "xT1cvVP3cC6zeQIkBk3xlw",
+     "parent": "4ArIoYRbh0CaV7mFckEkXe",
+     "isDir": false,
+     "title": "Pleasant Melody",
+     "album": "Fairytale",
+     "artist": "Natasha Beller",
+     "track": 5,
+     "year": 2018,
+     "genre": "Trip-Hop",
+     "coverArt": "mf-xT1cvVP3cC6zeQIkBk3xlw_640a93a1",
+     "size": 5060144,
+     "contentType": "audio/mpeg",
+     "suffix": "mp3",
+     "starred": "2026-09-06T05:48:55.912512377Z",
+     "duration": 187,
+     "bitRate": 192,
+     "path": "Natasha Beller/Fairytale/05 - Pleasant Melody.mp3",
+     "playCount": 632,
+     "created": "2025-03-26T22:26:49.21215878Z",
+     "albumId": "4ArIoYRbh0CaV7mFckEkXe",
+     "artistId": "40opqiyTRvIX5R96ih5pDL",
+     "type": "music",
+     "userRating": 5,
+     "averageRating": 5,
+     "played": "2026-09-12T14:06:25.75426147Z",
+     "bpm": 0,
+     "comment": "Courtesy of https://blocsonic.com/",
+     "sortName": "pleasant melody",
+     "mediaType": "song",
+     "musicBrainzId": "",
+     "isrc": [],
+     "genres": [
+      {
+       "name": "Trip-Hop"
+      }
+     ],
+     "replayGain": {
+      "trackGain": 0,
+      "albumGain": 0,
+      "trackPeak": 1,
+      "albumPeak": 1
+     },
+     "channelCount": 2,
+     "samplingRate": 44100,
+     "bitDepth": 0,
+     "moods": [],
+     "artists": [
+      {
+       "id": "40opqiyTRvIX5R96ih5pDL",
+       "name": "Natasha Beller"
+      }
+     ],
+     "displayArtist": "Natasha Beller",
+     "albumArtists": [
+      {
+       "id": "40opqiyTRvIX5R96ih5pDL",
+       "name": "Natasha Beller"
+      }
+     ],
+     "displayAlbumArtist": "Natasha Beller",
+     "contributors": [],
+     "displayComposer": "",
+     "explicitStatus": "",
+     "groupings": [],
+     "works": [],
+     "movements": []
+    }
+   ]
+  }
+ }
+}
