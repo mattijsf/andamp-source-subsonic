@@ -10,7 +10,7 @@ visualizer.
 
 ## Get it
 
-The APK is at [mattix.nl/andamp/extensions/subsonic](https://mattix.nl/andamp/extensions/subsonic).
+The APK is at [andamp.nl/extensions/subsonic](https://andamp.nl/extensions/subsonic).
 Andamp notifies you when a newer version is available.
 
 ## Build
