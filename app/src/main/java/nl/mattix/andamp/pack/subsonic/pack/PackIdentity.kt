@@ -31,10 +31,10 @@ internal object PackIdentity {
     const val LABEL = "Subsonic"
 
     /** Where this source's `update.json` is. */
-    const val UPDATES = "https://mattix.nl/andamp/extensions/subsonic/update.json"
+    const val UPDATES = "https://andamp.nl/extensions/subsonic/update.json"
 
     /** Where a listener gets this source. The player writes it into saved playlists beside this source's rows. */
-    const val HOME = "https://mattix.nl/andamp/extensions/subsonic"
+    const val HOME = "https://andamp.nl/extensions/subsonic"
 
     /** What the player reads when it binds. The capabilities are the backend's and the library's own, passed in. */
     fun descriptor(
