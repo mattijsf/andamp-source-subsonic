@@ -2,6 +2,13 @@
 
 Changes for people who use this source, newest first.
 
+## [0.3.0](https://github.com/mattijsf/andamp-source-subsonic/compare/v0.2.0...v0.3.0) (2026-10-14)
+
+
+### New
+
+* Android's App info page opens the source's settings ([#5](https://github.com/mattijsf/andamp-source-subsonic/issues/5)) ([354be89](https://github.com/mattijsf/andamp-source-subsonic/commit/354be8982ef03b45945865216271c6e526641a81))
+
 ## [0.2.0](https://github.com/mattijsf/andamp-source-subsonic/compare/v0.1.2...v0.2.0) (2026-10-07)
 
 
