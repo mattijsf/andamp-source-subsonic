@@ -46,6 +46,12 @@ object Subsonic {
     /** Artists, albums and songs at once, each with its own offset and count. */
     const val SEARCH = "search3"
 
+    /** Every genre, with how many songs and albums carry it. */
+    const val GET_GENRES = "getGenres"
+
+    /** The songs tagged with one genre, taking an offset and a count of at most 500. */
+    const val GET_SONGS_BY_GENRE = "getSongsByGenre"
+
     /** A cover, by the id a song or an album carries. */
     const val COVER_ART = "getCoverArt"
 

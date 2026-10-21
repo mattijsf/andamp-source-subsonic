@@ -1,0 +1,46 @@
+{
+ "subsonic-response": {
+  "status": "ok",
+  "version": "1.16.1",
+  "type": "navidrome",
+  "serverVersion": "0.63.2 (be10f89c)",
+  "openSubsonic": true,
+  "genres": {
+   "genre": [
+    {
+     "songCount": 18,
+     "albumCount": 3,
+     "value": "Rock"
+    },
+    {
+     "songCount": 6,
+     "albumCount": 1,
+     "value": "smoothjazz"
+    },
+    {
+     "songCount": 0,
+     "albumCount": 0,
+     "value": "Electronic"
+    },
+    {
+     "songCount": 3,
+     "albumCount": 1,
+     "value": ""
+    },
+    {
+     "songCount": 41,
+     "albumCount": 5,
+     "value": "Hip-Hop"
+    },
+    {
+     "value": "chiptune"
+    },
+    {
+     "songCount": 9,
+     "albumCount": 2,
+     "value": "Ambient"
+    }
+   ]
+  }
+ }
+}

@@ -10,8 +10,8 @@ import org.json.JSONObject
  * Reads a Subsonic song object into a [PackTrack].
  *
  * The `song` array of `getAlbum`, the `entry` array of `getPlaylist` and the
- * `song` array of `search3` hold the same object. Every field except the id is
- * read as optional.
+ * `song` arrays of `search3` and `getSongsByGenre` hold the same object. Every
+ * field except the id is read as optional.
  */
 object SubsonicRow {
     /**

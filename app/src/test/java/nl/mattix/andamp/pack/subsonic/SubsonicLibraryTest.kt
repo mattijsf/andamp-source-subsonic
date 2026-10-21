@@ -171,6 +171,73 @@ class SubsonicLibraryTest {
         }
 
     @Test
+    fun `the genres come by name without case, each named by itself and counting its songs`() =
+        runTest {
+            val http = FakeSubsonicHttp(mapOf("getGenres" to recorded("getGenres")))
+
+            val answer = SubsonicLibrary(http, SERVER).answer(PackQuestion(PackQuestion.GENRES))
+
+            assertEquals("getGenres", http.once().endpoint)
+            // the genre with a blank name is left out
+            assertEquals(
+                listOf("Ambient", "chiptune", "Electronic", "Hip-Hop", "Rock", "smoothjazz"),
+                answer.playlists.map { it.name },
+            )
+            assertEquals(answer.playlists.map { it.name }, answer.playlists.map { it.id })
+            // a count of 0 from the server stays 0, and a missing one is unknown
+            assertEquals(listOf(9, UNKNOWN_COUNT, 0, 41, 18, 6), answer.playlists.map { it.trackCount })
+            assertEquals(listOf<String?>(null), answer.playlists.map { it.owner }.distinct())
+            assertFalse(answer.more)
+            assertFalse(answer.failed)
+        }
+
+    @Test
+    fun `the genres are cut into pages here`() =
+        runTest {
+            val library = library("getGenres")
+
+            val first = library.answer(PackQuestion(PackQuestion.GENRES, offset = 0, limit = 4))
+            val last = library.answer(PackQuestion(PackQuestion.GENRES, offset = 4, limit = 4))
+
+            assertEquals(4, first.playlists.size)
+            assertTrue(first.more)
+            assertEquals(listOf("Rock", "smoothjazz"), last.playlists.map { it.name })
+            assertFalse(last.more)
+        }
+
+    @Test
+    fun `a genre's songs are asked for by its name, a page at a time`() =
+        runTest {
+            val http = FakeSubsonicHttp(mapOf("getSongsByGenre" to recorded("getSongsByGenre")))
+            val library = SubsonicLibrary(http, SERVER)
+
+            val full = library.answer(PackQuestion(PackQuestion.GENRE_TRACKS, id = "smoothjazz", offset = 30, limit = 3))
+            val room = library.answer(PackQuestion(PackQuestion.GENRE_TRACKS, id = "smoothjazz", limit = 25))
+
+            assertEquals("getSongsByGenre", http.asked.first().endpoint)
+            assertEquals(mapOf("genre" to "smoothjazz", "count" to "3", "offset" to "30"), http.asked.first().params)
+            assertEquals(
+                listOf("Can I Have Your Love Tonight", "So In Love", "So In Love"),
+                full.tracks.map { it.title },
+            )
+            assertEquals("subsonic:track:s00C9MhOEmlMNNu3DSoWeC", full.tracks.first().id)
+            // three asked for and three answered: the endpoint gives no total
+            assertTrue(full.more)
+            assertFalse(room.more)
+        }
+
+    @Test
+    fun `a page of a genre's songs is never asked for larger than the server gives`() =
+        runTest {
+            val http = FakeSubsonicHttp(mapOf("getSongsByGenre" to recorded("getSongsByGenre")))
+
+            SubsonicLibrary(http, SERVER).answer(PackQuestion(PackQuestion.GENRE_TRACKS, id = "Rock", limit = 2_000))
+
+            // the server answers at most 500, so a full page of 500 still says there is more
+            assertEquals("500", http.once().params["count"])
+        }
+
+    @Test
     fun `a search asks the server for songs and for nothing else`() =
         runTest {
             val http = FakeSubsonicHttp(mapOf("search3" to recorded("search3-songs")))
