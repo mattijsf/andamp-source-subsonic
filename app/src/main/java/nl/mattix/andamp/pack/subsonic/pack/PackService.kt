@@ -91,7 +91,8 @@ class PackService : PackServiceBase() {
 
     /**
      * The library, kept while the server and account stay the same and built
-     * again when they change. It holds no cache.
+     * again when they change. All it keeps is the last walk for the folders, so
+     * a new library walks the new server.
      *
      * Synchronized with [forgetAccount], which runs on the main thread while a
      * question may be reading this on a binder thread.

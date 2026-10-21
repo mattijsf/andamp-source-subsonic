@@ -4,6 +4,7 @@ package nl.mattix.andamp.pack.subsonic.pack
 
 import android.Manifest
 import android.app.Application
+import android.content.ComponentName
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.net.ConnectivityManager
@@ -96,6 +97,15 @@ class PackServiceTest {
         assertEquals(StreamPlayback.RENDERING.canEditQueue, said.canEditQueue)
         assertEquals(StreamPlayback.RENDERING.canAttenuate, said.canAttenuate)
         assertEquals(SubsonicLibrary.SHELVES, said.browse)
+    }
+
+    @Test
+    fun `the manifest tells the player this source answers folders and genres`() {
+        val component = ComponentName(app, PackService::class.java)
+        val meta = checkNotNull(app.packageManager.getServiceInfo(component, PackageManager.GET_META_DATA).metaData)
+
+        assertTrue(meta.getBoolean(PackApi.META_FOLDERS))
+        assertTrue(meta.getBoolean(PackApi.META_GENRES))
     }
 
     @Test
