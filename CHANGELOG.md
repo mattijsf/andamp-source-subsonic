@@ -2,6 +2,14 @@
 
 Changes for people who use this source, newest first.
 
+## [0.4.0](https://github.com/mattijsf/andamp-source-subsonic/compare/v0.3.0...v0.4.0) (2026-10-21)
+
+
+### New
+
+* Andamp shows this source's logo beside its songs ([#7](https://github.com/mattijsf/andamp-source-subsonic/issues/7)) ([9f953f7](https://github.com/mattijsf/andamp-source-subsonic/commit/9f953f7ecf2de007f0faad5c17fdd46cb55f404a))
+* browse this server's music by folder or genre in Andamp ([#9](https://github.com/mattijsf/andamp-source-subsonic/issues/9)) ([73c7b33](https://github.com/mattijsf/andamp-source-subsonic/commit/73c7b33e99772c478f5355d6d119879b7944d4e8))
+
 ## [0.3.0](https://github.com/mattijsf/andamp-source-subsonic/compare/v0.2.0...v0.3.0) (2026-10-14)
 
 
