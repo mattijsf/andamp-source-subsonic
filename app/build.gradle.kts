@@ -15,7 +15,7 @@ android {
     defaultConfig {
         applicationId = "nl.mattix.andamp.pack.subsonic"
         targetSdk = 36
-        versionName = "0.3.0" // x-release-please-version
+        versionName = "0.4.0" // x-release-please-version
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
